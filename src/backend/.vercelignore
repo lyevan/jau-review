@@ -1,0 +1,14 @@
+# Only ignore development files
+
+.env.local
+.env.development
+
+# Test files (but keep source files)
+
+**/\*.test.ts
+**/\*.spec.ts
+
+# Seed scripts (not needed in production)
+
+src/seed*.ts
+src/test*.ts

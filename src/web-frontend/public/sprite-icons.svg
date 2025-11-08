@@ -1,0 +1,280 @@
+<svg width="0" height="0" class="hidden">
+  <!-- Default: Patient Icon -->
+  <symbol fill="#fefefe" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlnsSerif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="#fefefe" viewBox="0 0 32 32" id="icon-line-patient-default">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M9.731,14.075c-1.387,0.252 -2.676,0.921 -3.687,1.932c-1.309,1.309 -2.044,3.084 -2.044,4.935l0,4.039c0,1.657 1.343,3 3,3c4.184,-0 13.816,-0 18,-0c1.657,-0 3,-1.343 3,-3l0,-4.039c0,-1.851 -0.735,-3.626 -2.044,-4.935c-1.011,-1.011 -2.3,-1.68 -3.687,-1.932c0.468,-0.939 0.731,-1.997 0.731,-3.117c0,-3.863 -3.137,-7 -7,-7c-3.863,0 -7,3.137 -7,7c0,1.12 0.263,2.178 0.731,3.117Zm11.169,1.88c-1.262,1.239 -2.993,2.003 -4.9,2.003c-1.907,0 -3.638,-0.764 -4.9,-2.003c-0.04,0.005 -0.08,0.007 -0.12,0.007c-1.321,0 -2.588,0.525 -3.521,1.459c-0.934,0.934 -1.459,2.201 -1.459,3.521c0,0 0,4.039 0,4.039c0,0.552 0.448,1 1,1l18,-0c0.552,-0 1,-0.448 1,-1c-0,-0 0,-4.039 0,-4.039c0,-1.32 -0.525,-2.587 -1.459,-3.521c-0.933,-0.934 -2.2,-1.459 -3.521,-1.459c-0.04,0 -0.08,-0.002 -0.12,-0.007Zm-4.9,-9.997c2.76,0 5,2.241 5,5c0,2.76 -2.24,5 -5,5c-2.76,0 -5,-2.24 -5,-5c0,-2.759 2.24,-5 5,-5Z"></path>
+      <path d="M20,20.008l-1,-0c-0.552,-0 -1,0.448 -1,1c-0,0.552 0.448,1 1,1l1,-0l0,1c-0,0.552 0.448,1 1,1c0.552,-0 1,-0.448 1,-1l0,-1l1,-0c0.552,-0 1,-0.448 1,-1c-0,-0.552 -0.448,-1 -1,-1l-1,-0l0,-1c-0,-0.552 -0.448,-1 -1,-1c-0.552,-0 -1,0.448 -1,1l0,1Z"></path>
+    </g>
+  </symbol>
+
+  <!-- Active: Patient Icon -->
+  <symbol id="icon-solid-patient-active" viewBox="0 0 32 32">
+    <path d="M9.731,14.075c-1.387,0.252 -2.676,0.921 -3.687,1.932c-1.309,1.309 -2.044,3.084 -2.044,4.935l0,4.039c0,1.657 1.343,3 3,3c4.184,-0 13.816,-0 18,-0c1.657,-0 3,-1.343 3,-3l0,-4.039c0,-1.851 -0.735,-3.626 -2.044,-4.935c-1.011,-1.011 -2.3,-1.68 -3.687,-1.932c0.468,-0.939 0.731,-1.997 0.731,-3.117c0,-3.863 -3.137,-7 -7,-7c-3.863,0 -7,3.137 -7,7c0,1.12 0.263,2.178 0.731,3.117Zm11.169,1.88c-1.262,1.239 -2.993,2.003 -4.9,2.003c-1.907,0 -3.638,-0.764 -4.9,-2.003c-0.04,0.005 -0.08,0.007 -0.12,0.007c-1.321,0 -2.588,0.525 -3.521,1.459c-0.934,0.934 -1.459,2.201 -1.459,3.521c0,0 0,4.039 0,4.039c0,0.552 0.448,1 1,1l18,-0c0.552,-0 1,-0.448 1,-1c-0,-0 0,-4.039 0,-4.039c0,-1.32 -0.525,-2.587 -1.459,-3.521c-0.933,-0.934 -2.2,-1.459 -3.521,-1.459c-0.04,0 -0.08,-0.002 -0.12,-0.007Zm-4.9,-9.997c2.76,0 5,2.241 5,5c0,2.76 -2.24,5 -5,5c-2.76,0 -5,-2.24 -5,-5c0,-2.759 2.24,-5 5,-5Z" fill="#008080"/>
+    <path d="M20,20.008l-1,-0c-0.552,-0 -1,0.448 -1,1c-0,0.552 0.448,1 1,1l1,-0l0,1c-0,0.552 0.448,1 1,1c0.552,-0 1,-0.448 1,-1l0,-1l1,-0c0.552,-0 1,-0.448 1,-1c-0,-0.552 -0.448,-1 -1,-1l-1,-0l0,-1c-0,-0.552 -0.448,-1 -1,-1c-0.552,-0 -1,0.448 -1,1l0,1Z" fill="#008080"/>
+  </symbol>
+
+  <!-- Default: Doctor Icon -->
+ 
+  <symbol fill="#fefefe" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlnsSerif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="#fefefe" viewBox="0 0 32 32" id="icon-solid-doctor-active">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M9.733,14.107c-1.387,0.252 -2.676,0.921 -3.687,1.932c-1.309,1.309 -2.044,3.084 -2.044,4.935l0,4.039c0,1.657 1.343,3 3,3c4.184,-0 13.816,-0 18,-0c1.657,-0 3,-1.343 3,-3l0,-4.039c0,-1.851 -0.735,-3.626 -2.044,-4.935c-1.011,-1.011 -2.3,-1.68 -3.687,-1.932c0.468,-0.939 0.731,-1.997 0.731,-3.117c0,-3.863 -3.137,-7 -7,-7c-3.863,0 -7,3.137 -7,7c0,1.12 0.263,2.178 0.731,3.117Zm12.263,1.984l-0,2.079c1.164,0.412 2,1.524 2,2.83c0,1.101 0.004,1.995 0.004,1.995c0.003,0.552 -0.443,1.002 -0.995,1.005c-0.552,0.002 -1.002,-0.444 -1.005,-0.995c0,-0 -0.004,-0.899 -0.004,-2.005c0,-0.552 -0.446,-1 -0.997,-1c-0.551,-0 -0.997,0.448 -0.997,1l-0.002,2.001c-0.001,0.552 -0.449,1 -1.001,0.999c-0.552,-0.001 -1,-0.449 -0.999,-1.001c-0,-0 0.002,-2 0.002,-1.999c0,-1.304 0.833,-2.414 1.994,-2.828l-0,-1.433c-1.133,0.789 -2.51,1.251 -3.994,1.251c-1.489,0 -2.871,-0.466 -4.006,-1.26l-0,1.441c1.165,0.412 2,1.524 2,2.829c0,1.656 -1.344,3 -3,3c-1.656,-0 -3,-1.344 -3,-3c-0,-1.305 0.835,-2.417 2,-2.829l-0,-2.078c-0.954,0.193 -1.837,0.662 -2.535,1.36c-0.934,0.934 -1.459,2.201 -1.459,3.521c0,0 0,4.039 0,4.039c0,0.552 0.448,1 1,1l18,-0c0.552,-0 1,-0.448 1,-1c0,-0 0,-4.039 0,-4.039c0,-1.32 -0.525,-2.587 -1.458,-3.521c-0.701,-0.701 -1.59,-1.171 -2.548,-1.362Zm-11,3.909c0.552,-0 1,0.448 1,1c0,0.552 -0.448,1 -1,1c-0.552,-0 -1,-0.448 -1,-1c-0,-0.552 0.448,-1 1,-1Zm5.006,-14.01c2.76,0 5,2.241 5,5c0,2.76 -2.24,5 -5,5c-2.76,0 -5,-2.24 -5,-5c0,-2.759 2.24,-5 5,-5Z"></path>
+    </g>
+  </symbol>
+
+
+  <!-- Active: Doctor Icon -->
+  <symbol id="icon-solid-doctor-active" viewBox="0 0 32 32">
+    <path d="M9.733,14.107c-1.387,0.252 -2.676,0.921 -3.687,1.932c-1.309,1.309 -2.044,3.084 -2.044,4.935l0,4.039c0,1.657 1.343,3 3,3c4.184,-0 13.816,-0 18,-0c1.657,-0 3,-1.343 3,-3l0,-4.039c0,-1.851 -0.735,-3.626 -2.044,-4.935c-1.011,-1.011 -2.3,-1.68 -3.687,-1.932c0.468,-0.939 0.731,-1.997 0.731,-3.117c0,-3.863 -3.137,-7 -7,-7c-3.863,0 -7,3.137 -7,7c0,1.12 0.263,2.178 0.731,3.117Zm12.263,1.984l-0,2.079c1.164,0.412 2,1.524 2,2.83c0,1.101 0.004,1.995 0.004,1.995c0.003,0.552 -0.443,1.002 -0.995,1.005c-0.552,0.002 -1.002,-0.444 -1.005,-0.995c0,-0 -0.004,-0.899 -0.004,-2.005c0,-0.552 -0.446,-1 -0.997,-1c-0.551,-0 -0.997,0.448 -0.997,1l-0.002,2.001c-0.001,0.552 -0.449,1 -1.001,0.999c-0.552,-0.001 -1,-0.449 -0.999,-1.001c-0,-0 0.002,-2 0.002,-1.999c0,-1.304 0.833,-2.414 1.994,-2.828l-0,-1.433c-1.133,0.789 -2.51,1.251 -3.994,1.251c-1.489,0 -2.871,-0.466 -4.006,-1.26l-0,1.441c1.165,0.412 2,1.524 2,2.829c0,1.656 -1.344,3 -3,3c-1.656,-0 -3,-1.344 -3,-3c-0,-1.305 0.835,-2.417 2,-2.829l-0,-2.078c-0.954,0.193 -1.837,0.662 -2.535,1.36c-0.934,0.934 -1.459,2.201 -1.459,3.521c0,0 0,4.039 0,4.039c0,0.552 0.448,1 1,1l18,-0c0.552,-0 1,-0.448 1,-1c0,-0 0,-4.039 0,-4.039c0,-1.32 -0.525,-2.587 -1.458,-3.521c-0.701,-0.701 -1.59,-1.171 -2.548,-1.362Zm-11,3.909c0.552,-0 1,0.448 1,1c0,0.552 -0.448,1 -1,1c-0.552,-0 -1,-0.448 -1,-1c-0,-0.552 0.448,-1 1,-1Zm5.006,-14.01c2.76,0 5,2.241 5,5c0,2.76 -2.24,5 -5,5c-2.76,0 -5,-2.24 -5,-5c0,-2.759 2.24,-5 5,-5Z" fill="#008080"/>
+  </symbol>
+
+  <!-- DASHBOARD DEFAULT -->
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 -0.5 25 25" id="icon-line-dashboard-default">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M9.918 10.0005H7.082C6.66587 9.99708 6.26541 10.1591 5.96873 10.4509C5.67204 10.7427 5.50343 11.1404 5.5 11.5565V17.4455C5.5077 18.3117 6.21584 19.0078 7.082 19.0005H9.918C10.3341 19.004 10.7346 18.842 11.0313 18.5502C11.328 18.2584 11.4966 17.8607 11.5 17.4445V11.5565C11.4966 11.1404 11.328 10.7427 11.0313 10.4509C10.7346 10.1591 10.3341 9.99708 9.918 10.0005Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M9.918 4.0006H7.082C6.23326 3.97706 5.52559 4.64492 5.5 5.4936V6.5076C5.52559 7.35629 6.23326 8.02415 7.082 8.0006H9.918C10.7667 8.02415 11.4744 7.35629 11.5 6.5076V5.4936C11.4744 4.64492 10.7667 3.97706 9.918 4.0006Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15.082 13.0007H17.917C18.3333 13.0044 18.734 12.8425 19.0309 12.5507C19.3278 12.2588 19.4966 11.861 19.5 11.4447V5.55666C19.4966 5.14054 19.328 4.74282 19.0313 4.45101C18.7346 4.1592 18.3341 3.9972 17.918 4.00066H15.082C14.6659 3.9972 14.2654 4.1592 13.9687 4.45101C13.672 4.74282 13.5034 5.14054 13.5 5.55666V11.4447C13.5034 11.8608 13.672 12.2585 13.9687 12.5503C14.2654 12.8421 14.6659 13.0041 15.082 13.0007Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15.082 19.0006H17.917C18.7661 19.0247 19.4744 18.3567 19.5 17.5076V16.4936C19.4744 15.6449 18.7667 14.9771 17.918 15.0006H15.082C14.2333 14.9771 13.5256 15.6449 13.5 16.4936V17.5066C13.525 18.3557 14.2329 19.0241 15.082 19.0006Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </symbol>
+
+
+  <!-- DASHBOARD ACTIVE -->
+  <symbol id="icon-solid-dashboard-active" viewBox="0 0 24 24">
+    <path d="M13 12C13 11.4477 13.4477 11 14 11H19C19.5523 11 20 11.4477 20 12V19C20 19.5523 19.5523 20 19 20H14C13.4477 20 13 19.5523 13 19V12Z" stroke="#008080" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M4 5C4 4.44772 4.44772 4 5 4H9C9.55228 4 10 4.44772 10 5V12C10 12.5523 9.55228 13 9 13H5C4.44772 13 4 12.5523 4 12V5Z" stroke="#008080" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M4 17C4 16.4477 4.44772 16 5 16H9C9.55228 16 10 16.4477 10 17V19C10 19.5523 9.55228 20 9 20H5C4.44772 20 4 19.5523 4 19V17Z" stroke="#008080" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M13 5C13 4.44772 13.4477 4 14 4H19C19.5523 4 20 4.44772 20 5V7C20 7.55228 19.5523 8 19 8H14C13.4477 8 13 7.55228 13 7V5Z" stroke="#008080" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </symbol>
+
+  <!-- CALENDAR DEFAULT -->
+   <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-line-calendar-default">
+    <g id="icon-line-calendar-default" stroke-width="0"></g>
+    <g id="icon-line-calendar-default" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="icon-line-calendar-default">
+      <path d="M3 9H21M7 3V5M17 3V5M6 13H8M6 17H8M11 13H13M11 17H13M16 13H18M16 17H18M6.2 21H17.8C18.9201 21 19.4802 21 19.908 20.782C20.2843 20.5903 20.5903 20.2843 20.782 19.908C21 19.4802 21 18.9201 21 17.8V8.2C21 7.07989 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V17.8C3 18.9201 3 19.4802 3.21799 19.908C3.40973 20.2843 3.71569 20.5903 4.09202 20.782C4.51984 21 5.07989 21 6.2 21Z" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </symbol>
+
+
+  <!-- CALENDAR ACTIVE -->
+  <symbol id="icon-solid-calendar-active" viewBox="0 0 24 24">
+    <path d="M3 9H21M7 3V5M17 3V5M6 13H8M6 17H8M11 13H13M11 17H13M16 13H18M16 17H18M6.2 21H17.8C18.9201 21 19.4802 21 19.908 20.782C20.2843 20.5903 20.5903 20.2843 20.782 19.908C21 19.4802 21 18.9201 21 17.8V8.2C21 7.07989 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V17.8C3 18.9201 3 19.4802 3.21799 19.908C3.40973 20.2843 3.71569 20.5903 4.09202 20.782C4.51984 21 5.07989 21 6.2 21Z" stroke="#008080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </symbol>
+
+  <!-- APPOINTMENT DEFAULT -->
+  <svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-appointment-default">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M20 21V20C20 18.8954 19.1046 18 18 18H14C12.8954 18 12 18.8954 12 20V21M9 11H4M15 5H18C19.1046 5 20 5.89543 20 7V9M6 5C4.89543 5 4 5.89543 4 7V19C4 20.1046 4.89543 21 6 21H9M15 3V7M9 3V7M9 5H12M18 13C18 14.1046 17.1046 15 16 15C14.8954 15 14 14.1046 14 13C14 11.8954 14.8954 11 16 11C17.1046 11 18 11.8954 18 13Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round"></path>
+    </g>
+  </symbol>
+</svg>
+
+  <!-- APPOINTMENT ACTIVE -->
+  <svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="calendar-user-svgrepo-com">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M20 21V20C20 18.8954 19.1046 18 18 18H14C12.8954 18 12 18.8954 12 20V21M9 11H4M15 5H18C19.1046 5 20 5.89543 20 7V9M6 5C4.89543 5 4 5.89543 4 7V19C4 20.1046 4.89543 21 6 21H9M15 3V7M9 3V7M9 5H12M18 13C18 14.1046 17.1046 15 16 15C14.8954 15 14 14.1046 14 13C14 11.8954 14.8954 11 16 11C17.1046 11 18 11.8954 18 13Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round"></path>
+    </g>
+  </symbol>
+</svg>
+
+  <!-- RECORD DEFAULT -->
+  <symbol id="icon-line-record-default" viewBox="0 0 32 32">
+    <path d="M29,18H26V7s0,0,0,0a.81.81,0,0,0-.08-.34.36.36,0,0,0,0-.09.92.92,0,0,0-.24-.31l-5-4a.85.85,0,0,0-.28-.15l-.08,0A.62.62,0,0,0,20,2H7A1,1,0,0,0,6,3V15H5a2.73,2.73,0,0,0-3,2.44v9.39C2,28.61,3.76,30,6,30H26c2.24,0,4-1.39,4-3.17V19A1,1,0,0,0,29,18ZM21,5.08,22.15,6H21ZM8,4H19V7a1,1,0,0,0,1,1h4V18H17V16a1,1,0,0,0-1-1H8ZM28,26.83c0,.55-.82,1.17-2,1.17H6c-1.18,0-2-.62-2-1.17V17.44c0-.11.35-.44,1-.44H15v2a1,1,0,0,0,1,1H28Z" fill="#fefefe"/>
+    <path d="M18,23H17V22a1,1,0,0,0-2,0v1H14a1,1,0,0,0,0,2h1v1a1,1,0,0,0,2,0V25h1a1,1,0,0,0,0-2Z" fill="#fefefe"/>
+    <path d="M11,11H21a1,1,0,0,0,0-2H11a1,1,0,0,0,0,2Z" fill="#fefefe"/>
+    <path d="M22,13a1,1,0,0,0-1-1H11a1,1,0,0,0,0,2H21A1,1,0,0,0,22,13Z" fill="#fefefe"/>
+  </symbol>
+
+  <!-- RECORD ACTIVE -->
+  <symbol fill="#fefefe" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 32 32" id="icon-line-record-default">
+    <g id="icon-line-record-default" stroke-width="0"></g>
+    <g id="icon-line-record-default" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="icon-line-record-default">
+      <title></title>
+      <g id="icon-line-record-default">
+        <path d="M29,18H26V7s0,0,0,0a.81.81,0,0,0-.08-.34.36.36,0,0,0,0-.09.92.92,0,0,0-.24-.31l-5-4a.85.85,0,0,0-.28-.15l-.08,0A.62.62,0,0,0,20,2H7A1,1,0,0,0,6,3V15H5a2.73,2.73,0,0,0-3,2.44v9.39C2,28.61,3.76,30,6,30H26c2.24,0,4-1.39,4-3.17V19A1,1,0,0,0,29,18ZM21,5.08,22.15,6H21ZM8,4H19V7a1,1,0,0,0,1,1h4V18H17V16a1,1,0,0,0-1-1H8ZM28,26.83c0,.55-.82,1.17-2,1.17H6c-1.18,0-2-.62-2-1.17V17.44c0-.11.35-.44,1-.44H15v2a1,1,0,0,0,1,1H28Z"></path>
+        <path d="M18,23H17V22a1,1,0,0,0-2,0v1H14a1,1,0,0,0,0,2h1v1a1,1,0,0,0,2,0V25h1a1,1,0,0,0,0-2Z"></path>
+        <path d="M11,11H21a1,1,0,0,0,0-2H11a1,1,0,0,0,0,2Z"></path>
+        <path d="M22,13a1,1,0,0,0-1-1H11a1,1,0,0,0,0,2H21A1,1,0,0,0,22,13Z"></path>
+      </g>
+    </g>
+  </symbol>
+
+
+  <!-- COLLAPSE -->
+
+  <symbol fill="#fefefe" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlnsSerif="http://www.serif.com/" stroke="#fefefe" viewBox="0 0 64 64" id="icon-line-collapse">
+    <g id="icon-line-collapse" stroke-width="0"></g>
+    <g id="icon-line-collapse" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="icon-line-collapse">
+      <rect id="Icons" x="-1088" y="0" width="1280" height="800"></rect>
+      <g id="Icons1" serifId="Icons">
+        <g id="Strike"></g>
+        <g id="H1"></g>
+        <g id="H2"></g>
+        <g id="H3"></g>
+        <g id="list-ul"></g>
+        <g id="hamburger-1"></g>
+        <g id="hamburger-2"></g>
+        <g id="list-ol"></g>
+        <g id="list-task"></g>
+        <g id="trash"></g>
+        <g id="vertical-menu"></g>
+        <g id="horizontal-menu"></g>
+        <g id="sidebar-2"></g>
+        <g id="Pen"></g>
+        <g id="Pen1" serifId="Pen"></g>
+        <g id="clock"></g>
+        <g id="external-link"></g>
+        <g id="hr"></g>
+        <g id="info"></g>
+        <g id="warning"></g>
+        <g id="plus-circle"></g>
+        <g id="minus-circle"></g>
+        <g id="vue"></g>
+        <g id="cog"></g>
+        <g id="logo"></g>
+        <g id="radio-check"></g>
+        <g id="eye-slash"></g>
+        <g id="eye"></g>
+        <g id="toggle-off"></g>
+        <g>
+          <path id="sidebar" d="M49.984,56l-35.989,0c-3.309,0 -5.995,-2.686 -5.995,-5.995l0,-36.011c0,-3.308 2.686,-5.995 5.995,-5.995l35.989,0c3.309,0 5.995,2.687 5.995,5.995l0,36.011c0,3.309 -2.686,5.995 -5.995,5.995Zm-25.984,-4.001l0,-39.999l-9.012,0c-1.65,0 -2.989,1.339 -2.989,2.989l0,34.021c0,1.65 1.339,2.989 2.989,2.989l9.012,0Zm24.991,-39.999l-20.991,0l0,39.999l20.991,0c1.65,0 2.989,-1.339 2.989,-2.989l0,-34.021c0,-1.65 -1.339,-2.989 -2.989,-2.989Z"></path>
+          <path id="code" d="M19.999,38.774l-6.828,-6.828l6.828,-6.829l2.829,2.829l-4,4l4,4l-2.829,2.828Z"></path>
+        </g>
+        <g id="shredder"></g>
+        <g id="spinner--loading--dots-" serifId="spinner [loading, dots]"></g>
+        <g id="react"></g>
+        <g id="check-selected"></g>
+        <g id="turn-off"></g>
+        <g id="code-block"></g>
+        <g id="user"></g>
+        <g id="coffee-bean"></g>
+        <g id="coffee-beans">
+          <g id="coffee-bean1" serifId="coffee-bean"></g>
+        </g>
+        <g id="coffee-bean-filled"></g>
+        <g id="coffee-beans-filled">
+          <g id="coffee-bean2" serifId="coffee-bean"></g>
+        </g>
+        <g id="clipboard"></g>
+        <g id="clipboard-paste"></g>
+        <g id="clipboard-copy"></g>
+        <g id="Layer1"></g>
+      </g>
+    </g>
+  </symbol>
+
+
+  <!-- EXPAND -->
+  <symbol fill="#fefefe" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlnsSerif="http://www.serif.com/" stroke="#fefefe" viewBox="0 0 64 64" id="icon-line-expand">
+    <g id="icon-line-expand" stroke-width="0"></g>
+    <g id="icon-line-expand" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="icon-line-expand">
+      <rect id="Icons" x="-1152" y="0" width="1280" height="800"></rect>
+      <g id="Icons1" serifId="Icons">
+        <g id="Strike"></g>
+        <g id="H1"></g>
+        <g id="H2"></g>
+        <g id="H3"></g>
+        <g id="list-ul"></g>
+        <g id="hamburger-1"></g>
+        <g id="hamburger-2"></g>
+        <g id="list-ol"></g>
+        <g id="list-task"></g>
+        <g id="trash"></g>
+        <g id="vertical-menu"></g>
+        <g id="horizontal-menu"></g>
+        <g id="sidebar-2"></g>
+        <g id="Pen"></g>
+        <g id="Pen1" serifId="Pen"></g>
+        <g id="clock"></g>
+        <g id="external-link"></g>
+        <g id="hr"></g>
+        <g id="info"></g>
+        <g id="warning"></g>
+        <g id="plus-circle"></g>
+        <g id="minus-circle"></g>
+        <g id="vue"></g>
+        <g id="cog"></g>
+        <g id="logo"></g>
+        <g id="radio-check"></g>
+        <g id="eye-slash"></g>
+        <g id="eye"></g>
+        <g id="toggle-off"></g>
+        <g>
+          <path id="sidebar" d="M50.008,56l-35.989,0c-3.309,0 -5.995,-2.686 -5.995,-5.995l0,-36.011c0,-3.308 2.686,-5.995 5.995,-5.995l35.989,0c3.309,0 5.995,2.687 5.995,5.995l0,36.011c0,3.309 -2.686,5.995 -5.995,5.995Zm-25.984,-4.001l0,-39.999l-9.012,0c-1.65,0 -2.989,1.339 -2.989,2.989l0,34.021c0,1.65 1.339,2.989 2.989,2.989l9.012,0Zm24.991,-39.999l-20.991,0l0,39.999l20.991,0c1.65,0 2.989,-1.339 2.989,-2.989l0,-34.021c0,-1.65 -1.339,-2.989 -2.989,-2.989Z"></path>
+          <path id="code" d="M16.024,38.774l6.828,-6.828l-6.828,-6.829l-2.829,2.829l4,4l-4,4l2.829,2.828Z"></path>
+        </g>
+        <g id="shredder"></g>
+        <g id="spinner--loading--dots-" serifId="spinner [loading, dots]"></g>
+        <g id="react"></g>
+        <g id="check-selected"></g>
+        <g id="turn-off"></g>
+        <g id="code-block"></g>
+        <g id="user"></g>
+        <g id="coffee-bean"></g>
+        <g id="coffee-beans">
+          <g id="coffee-bean1" serifId="coffee-bean"></g>
+        </g>
+        <g id="coffee-bean-filled"></g>
+        <g id="coffee-beans-filled">
+          <g id="coffee-bean2" serifId="coffee-bean"></g>
+        </g>
+        <g id="clipboard"></g>
+        <g id="clipboard-paste"></g>
+        <g id="clipboard-copy"></g>
+        <g id="Layer1"></g>
+      </g>
+    </g>
+  </symbol>
+
+
+  <!-- INVENTORY ICON -->
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-default-inventory">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <rect x="4" y="4" width="12" height="3" rx="1" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></rect>
+      <path d="M16 20H10H6C4.89543 20 4 19.1046 4 18V10.372C4 10.1321 4.08631 9.90006 4.24318 9.71843L6.59091 7H10H13.4091L15.7568 9.71843C15.9137 9.90006 16 10.1321 16 10.372V14" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M8 13L10 13M10 13L12 13M10 13V11M10 13L10 15" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="17" cy="17" r="3" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></circle>
+      <path d="M18.5 14.402L15.5 19.5981" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </symbol>
+
+  <!-- SHOPPING CART ICON -->
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-default-shopping-cart">
+        <path id="Vector" d="M17 17C15.8954 17 15 17.8954 15 19C15 20.1046 15.8954 21 17 21C18.1046 21 19 20.1046 19 19C19 17.8954 18.1046 17 17 17ZM17 17H9.29395C8.83288 17 8.60193 17 8.41211 16.918C8.24466 16.8456 8.09938 16.7291 7.99354 16.5805C7.8749 16.414 7.82719 16.1913 7.73274 15.7505L5.27148 4.26465C5.17484 3.81363 5.12587 3.58838 5.00586 3.41992C4.90002 3.27135 4.75477 3.15441 4.58732 3.08205C4.39746 3 4.16779 3 3.70653 3H3M6 6H18.8732C19.595 6 19.9555 6 20.1978 6.15036C20.41 6.28206 20.5653 6.48862 20.633 6.729C20.7104 7.00343 20.611 7.34996 20.411 8.04346L19.0264 12.8435C18.9068 13.2581 18.8469 13.465 18.7256 13.6189C18.6185 13.7547 18.4772 13.861 18.317 13.9263C18.1361 14 17.9211 14 17.4921 14H7.73047M8 21C6.89543 21 6 20.1046 6 19C6 17.8954 6.89543 17 8 17C9.10457 17 10 17.8954 10 19C10 20.1046 9.10457 21 8 21Z" stroke="#fefefe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+
+
+  <!-- ANALYTICS ICON -->
+
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-default-analytics">
+    
+      <path d="M9 21H15M9 21V16M9 21H3.6C3.26863 21 3 20.7314 3 20.4V16.6C3 16.2686 3.26863 16 3.6 16H9M15 21V9M15 21H20.4C20.7314 21 21 20.7314 21 20.4V3.6C21 3.26863 20.7314 3 20.4 3H15.6C15.2686 3 15 3.26863 15 3.6V9M15 9H9.6C9.26863 9 9 9.26863 9 9.6V16" stroke="#fefefe" stroke-width="1.5"></path>
+
+  </symbol>
+
+
+
+  <!-- CONNECTED USERS ICON -->
+ 
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#fefefe" viewBox="0 0 24 24" id="icon-default-users">
+      <path d="M3 19H1V18C1 16.1362 2.27477 14.57 4 14.126M6 10.8293C4.83481 10.4175 4 9.30623 4 8.00001C4 6.69379 4.83481 5.58255 6 5.17072M21 19H23V18C23 16.1362 21.7252 14.57 20 14.126M18 5.17072C19.1652 5.58255 20 6.69379 20 8.00001C20 9.30623 19.1652 10.4175 18 10.8293M10 14H14C16.2091 14 18 15.7909 18 18V19H6V18C6 15.7909 7.79086 14 10 14ZM15 8C15 9.65685 13.6569 11 12 11C10.3431 11 9 9.65685 9 8C9 6.34315 10.3431 5 12 5C13.6569 5 15 6.34315 15 8Z" stroke="#fefefe" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+
+</svg>

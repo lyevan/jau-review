@@ -1,0 +1,106 @@
+# 📋 Quick Guide: Create Clean Repository for IT Expert Review
+
+## What's Excluded (Hidden from IT Expert):
+✅ `src/web-backend/` folder (unused Django backend)
+✅ `src/api/` folder (unused)
+✅ All `.md` documentation files
+✅ All `.sql` files
+✅ Migration scripts and database migrations
+✅ Environment files (.env)
+✅ node_modules and build outputs
+
+## What's Included (Visible to IT Expert):
+✅ `src/web-frontend/` - Next.js frontend
+✅ `src/backend/` - Node.js/Express backend
+✅ `src/backend/build.js` - Build script (explicitly kept)
+✅ All source code (.ts, .tsx, .js files)
+✅ Package.json files
+✅ Configuration files
+
+---
+
+## 🚀 Option 1: Clean Current Repository (Recommended)
+
+Run the automated script:
+
+```bash
+cd /home/incygnia/Downloads/jau-new
+./setup-review-repo.sh
+```
+
+This will:
+1. Remove tracked files that should be ignored
+2. Stage only the files you want to share
+3. Show you what will be committed
+
+Then commit and push to a new remote:
+
+```bash
+# Commit the clean version
+git commit -m "Prepare repository for code review"
+
+# Add new remote repository (create one first on GitHub)
+git remote add review https://github.com/YOUR-USERNAME/jau-review.git
+
+# Push to the new repository
+git push review main
+```
+
+---
+
+## 🚀 Option 2: Create Fresh Repository Copy
+
+If you want to start completely fresh:
+
+```bash
+# Clone the current repo to a new directory
+cd /home/incygnia/Downloads
+git clone jau-new jau-review
+cd jau-review
+
+# Remove git history
+rm -rf .git
+
+# Initialize fresh repository
+git init
+git add .
+git commit -m "Initial commit for code review"
+
+# Create new repository on GitHub, then:
+git remote add origin https://github.com/YOUR-USERNAME/jau-review.git
+git branch -M main
+git push -u origin main
+```
+
+---
+
+## 📝 After Uploading
+
+1. Rename `README-REVIEW.md` to `README.md` in the new repository
+2. The IT expert will only see:
+   - Frontend and backend code
+   - Package configurations
+   - Build scripts
+   - NO documentation, SQL files, or migrations
+
+---
+
+## ⚠️ Important Notes
+
+- The `.gitignore` file is already configured properly
+- `build.js` is explicitly included (won't be ignored)
+- Make sure to create the new GitHub repository BEFORE pushing
+- You can make the new repository private if needed
+- The original repository remains unchanged
+
+---
+
+## 🧪 Verify What Will Be Shared
+
+Before pushing, check what files are tracked:
+
+```bash
+git ls-files
+```
+
+This shows exactly what will be in the new repository.

@@ -1,0 +1,53 @@
+✅ PRE-UPLOAD CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before uploading to the new repository, verify:
+
+□ Ran ./verify-files.sh to confirm what's included
+□ .gitignore is in place
+□ No .env files are tracked (check: git ls-files | grep .env)
+□ No .md files are tracked (check: git ls-files | grep .md)
+□ No .sql files are tracked (check: git ls-files | grep .sql)
+□ No migration files tracked (check: git ls-files | grep migration)
+□ src/web-backend/ is NOT tracked
+□ src/api/ is NOT tracked
+□ src/web-frontend/ IS tracked
+□ src/backend/ IS tracked
+□ src/backend/build.js IS tracked (important!)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ POST-UPLOAD CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+After pushing to the new repository:
+
+□ Visit the new repository on GitHub
+□ Verify web-frontend folder is visible
+□ Verify backend folder is visible
+□ Verify NO markdown files are visible in root
+□ Verify NO SQL files are visible
+□ Verify NO migrations folder in backend
+□ Verify README-REVIEW.md is NOT visible (it's excluded)
+□ Create a new README.md for the review repo
+□ Optionally make the repository private
+□ Share the repository link with IT expert
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quick Commands to Verify:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# See all tracked files
+git ls-files
+
+# Count total files
+git ls-files | wc -l
+
+# Check for excluded patterns
+git ls-files | grep -E "\.md$|\.sql$|migration|web-backend|api/"
+# ^ Should return NOTHING
+
+# Check build.js is included
+git ls-files | grep "build.js"
+# ^ Should show: src/backend/build.js

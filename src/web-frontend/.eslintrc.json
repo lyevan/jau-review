@@ -1,0 +1,42 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "eqeqeq": ["error", "always"],
+    "block-scoped-var": "error",
+    "capitalized-comments": "off",
+    "curly": "off",
+    "default-case": "off",
+    "default-case-last": "error",
+    "default-param-last": "off",
+    "init-declarations": "off",
+    "prefer-const": "off",
+    "no-useless-catch": "off",
+    "react/jsx-no-undef": "off",
+    "react-hooks/exhaustive-deps": "warn",
+    "multiline-comment-style": "off",
+    "no-case-declarations": "error",
+    "no-magic-numbers": "off",
+    "no-multi-assign": "error",
+    "no-nested-ternary": "off",
+    "no-new": "error",
+    "no-redeclare": "error",
+    "no-script-url": "error",
+    "no-throw-literal": "error",
+    "no-unneeded-ternary": "error",
+    "no-useless-rename": "error",
+    "no-useless-return": "error",
+    "require-await": "off",
+    "brace-style": "off",
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "react/no-unescaped-entities": "off"
+  },
+  "root": true
+}
